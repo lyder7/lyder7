@@ -10,6 +10,14 @@ I love projects that consist of something like datasience, time series, financia
 
 Currently trying to figure out efficient and smart methods using R/python code analyzing financial report data (Audit perspective). Please hmu if you are experienced modelling financial statement data - or mining text/pdf files to analyzable datasets. 
 
+Here are som projects I am currenly working on. 
+Projets status:
+
+* `raw-manipulator` : In progress. R-package with tools formatting data. Mainly geometric data. (respiratory private for the moment)
+
+* `empty-folders` : In progress. R-package for folder- and workflow tools. Mainly for R and Python based projects.(respiratory private for the moment)
+
+Referencing/stores data in the `raw-data` respiratory. Consist mainly of financial time series data, but in general you can find all kinds of datasets. (https://github.com/lyder7/raw-data)
 
 #### Contact Me
 

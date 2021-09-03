@@ -11,7 +11,12 @@ I love projects that consist of something like datasience, time series, financia
 Currently trying to figure out efficient and smart methods using R/python code analyzing financial report data (Audit perspective). Please hmu if you are experienced modelling financial statement data - or mining text/pdf files to analyzable datasets. 
 
 Here are som projects I am currenly working on. 
+
 Projets status:
+
+* `onelyder` : In progress. Webhosting for my personal domain `onelyder.com` (respiratory private for the moment)
+
+* `realestate-modelling` : In progress. Thesis complete rasp containg all files used for analyze, write and web hos the final results. (respiratory private for the moment)
 
 * `raw-manipulator` : In progress. R-package with tools formatting data. Mainly geometric data. (respiratory private for the moment)
 

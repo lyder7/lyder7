@@ -11,6 +11,13 @@ I love projects that consist of something like datasience, time series, financia
 Currently trying to figure out efficient and smart methods using R/python code analyzing financial report data (Audit perspective). Please hmu if you are experienced modelling financial statement data - or mining text/pdf files to analyzable datasets. 
 
 
+#### Contact Me
+
+* Phone: + 47 46 85 27 54
+
+* Mail: Lyderaleksander@gmail.com
+
+
 
 
 

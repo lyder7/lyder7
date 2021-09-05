@@ -4,7 +4,7 @@ My name is *Lyder Aleksander Mathisen*. I am 24 years old from Norway.
 
 **Proffersion:** Audit and Assurance at Deloitte. 
 
-I love projects that consist of something like datasience, time series, financial modelling or just abstract problemsolving about anything that is exiting. If its at least involves coding in R, i am definitely inn!
+I love projects that consist of something like datasience, time series, financial modelling or just general problemsolving about anything that is exiting. If its at least involves coding in R, i am definitely inn!
 
 ### Currently trying to solve...
 
